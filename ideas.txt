@@ -1,0 +1,55 @@
+*articels
+ <article class="box post">
+<header>
+<h2><a href="#">I don’t want to say <strong>it’s the aliens</strong> ...<br />
+but it’s the aliens.</a></h2>
+</header>
+<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+<h3>I mean isn't it possible?</h3>
+<p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
+sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
+in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat</p>
+<ul class="actions">
+<li><a href="#" class="button icon solid fa-file">Continue Reading</a></li>
+</ul>
+</article>
+
+*side bars
+<section>
+										<ul class="divided">
+											<li>
+
+												<!-- Highlight -->
+													<article class="box highlight">
+														<header>
+															<h3><a href="#">Morning Activities</a></h3>
+														</header>
+														<a href="#" class="image left"><img src="images/pic06.jpg" alt="" /></a>
+														<p>Every Morning, our school partakes in special activites to help our students refresh their
+														brains. Ranging from Motivational Speeches, Ten Words, Super Math, and a Morning Exercise!
+														</p>
+														<ul class="actions">
+															<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
+														</ul>
+													</article>
+
+											</li>
+											<li>
+
+												<!-- Highlight -->
+													<article class="box highlight">
+														<header>
+															<h3><a href="#">Extracurricular Activities</a></h3>
+														</header>
+														<a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
+														<p>Our school holds extracurricular activities every day, to expand our students
+														knowledge outside of our regular lessons. Ranging from Music, Clubs, and Sports.
+														</p>
+														<ul class="actions">
+															<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
+														</ul>
+													</article>
+
+											</li>
+										</ul>
+									</section>
