@@ -2338,8 +2338,12 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 980px) {
-
 		/* Basic */
+			#header h1 {
+				font-size: 2.5em;
+				letter-spacing: 8px;
+				line-height: 1.325em;
+			}
 
 			html, body {
 				overflow-x: hidden;
